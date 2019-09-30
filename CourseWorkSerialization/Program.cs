@@ -196,7 +196,8 @@ namespace CourseWorkSerialization
                 //TO DO: Display Category Data
                 if (i == 5)
                 {
-
+                    Console.WriteLine(catClass.ToString());
+                    Console.WriteLine("");
                 }
 
                 //Checks if user inputed 6
@@ -334,7 +335,8 @@ namespace CourseWorkSerialization
                 //TO DO: Display Assignment Data
                 if(i == 10)
                 {
-
+                    Console.WriteLine(assClass.ToString());
+                    Console.WriteLine("");
                 }
 
                 //Checks if user inputed 11
@@ -480,7 +482,8 @@ namespace CourseWorkSerialization
                 //TO DO: Display Submission Data
                 if (i == 15)
                 {
-
+                    Console.WriteLine(subClass.ToString());
+                    Console.WriteLine("");
                 }
 
                 //Checks for vaild user input
