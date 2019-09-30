@@ -193,7 +193,7 @@ namespace CourseWorkSerialization
                     writer.Close(); //Closes File
                 }
 
-                //TO DO: Display Category Data
+                //Display Category Data
                 if (i == 5)
                 {
                     Console.WriteLine(catClass.ToString());
@@ -332,7 +332,7 @@ namespace CourseWorkSerialization
                     writer.Close(); //Closes File
                 }
 
-                //TO DO: Display Assignment Data
+                //Display Assignment Data
                 if(i == 10)
                 {
                     Console.WriteLine(assClass.ToString());
@@ -479,7 +479,7 @@ namespace CourseWorkSerialization
                     writer.Close(); //Closes File
                 }
 
-                //TO DO: Display Submission Data
+                //Display Submission Data
                 if (i == 15)
                 {
                     Console.WriteLine(subClass.ToString());
